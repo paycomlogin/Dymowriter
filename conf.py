@@ -16,7 +16,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'HP Smart'
+project = 'LabelWriter printer'
 
 
 # The full version, including alpha/beta/rc tags
